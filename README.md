@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @geniuszmath75
+- 👋 Hi, I’m Damian
 - 👀 I’m interested in music, books, computer games.
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to create RESTful API and fullstack apps.
 - 📫 How to reach me: [Portfolio](https://projektdamian.pl)
